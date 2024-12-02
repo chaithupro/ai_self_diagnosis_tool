@@ -1,6 +1,4 @@
-Sure! Here's a refined version of the README for your `Healthcare-AI-WebApp` project:
 
----
 
 # AI Self-Diagnosis Tool - Healthcare-AI-WebApp
 
@@ -56,8 +54,6 @@ If you would like to contribute to this project, please fork the repository and 
 
 ## License
 
-This project is open-source and available under the [NITK License](LICENSE).
+This project is open-source
 
----
 
-Feel free to adjust or expand on this depending on your specific needs or if you want to add more details about the project!
