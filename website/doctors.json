@@ -1,0 +1,25 @@
+{
+    "Liver Disease": [
+        {
+            "name": "Dr. John Doe",
+            "specialization": "Hepatologist",
+            "location": "New York, NY",
+            "contact": "+1 555-1234"
+        },
+        {
+            "name": "Dr. Jane Smith",
+            "specialization": "Liver Specialist",
+            "location": "Los Angeles, CA",
+            "contact": "+1 555-5678"
+        }
+    ],
+    "Pneumonia": [
+        {
+            "name": "Dr. Alex Johnson",
+            "specialization": "Pulmonologist",
+            "location": "Houston, TX",
+            "contact": "+1 555-2345"
+        }
+    ]
+    // Add other diseases and doctors as needed
+}
