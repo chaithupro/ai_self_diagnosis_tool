@@ -1,8 +1,10 @@
 
 
 # AI Self-Diagnosis Tool - Healthcare-AI-WebApp
+![Screenshot_20241204_144912](https://github.com/user-attachments/assets/c7d0f866-91e6-4b81-bbef-add7ed7aa89c)
 
 The **Healthcare-AI-WebApp** leverages Artificial Intelligence (AI) to enhance healthcare by predicting the likelihood of various diseases based on user input. The web application uses machine learning and deep learning techniques to assess the risk of the following diseases:
+![Screenshot_20241204_144951](https://github.com/user-attachments/assets/3bb08380-5e08-4629-9fa6-f6a43a48e620)
 
 - **Lung Disease**
 - **Heart Disease**
